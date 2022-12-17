@@ -10,7 +10,7 @@
        - apt install qemu-guest-agent
        - systemctl enable qemu-guest-agent
        - และทำการตั้งค่าที่ option ให้เปิดใช้งานตัว Qemu guest agent เป็น Enable 
-       ![master](https://github.com/Ruangrit-01/spcn-011/issues/1#issue-1501254973)
+       ![image](https://user-images.githubusercontent.com/119097836/208231806-5129324d-d311-436a-9524-d692b3f763e6.png)
        - reboot เพื่อรีระบบ
    1.1) clone from template 2 vm
    - Click ที่ vm(master) > Convert to template
