@@ -20,7 +20,7 @@
    - ทำการsetระบบโดย
         - date เพื่อเช็ค timezone
     
-          ![date](https://user-images.githubusercontent.com/117428887/207250064-7dbee734-ba17-4e07-8c8e-bfc448aed275.png) 
+          ![image](https://user-images.githubusercontent.com/119097836/208232376-56184cbe-9e34-43c5-98b5-032604885797.png) 
         - ทำการเปลี่ยนipของระบบเพื่อไม่ให้ipซ้ำกันโดย
             - sudo -i
             - rm /var/lib/dbus/machine-id
