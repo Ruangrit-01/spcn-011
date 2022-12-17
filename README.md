@@ -28,20 +28,20 @@
             - ln -s /etc/machine-id /var/lib/dbus/machine-id เพื่อ link เชื่อมต่อกับ machine-id
             - reboot เพื่อรี ip ใหม่
             - หลังเปลี่ยน ip clone1
-              ![clone1](https://user-images.githubusercontent.com/117428887/207249927-11b31df4-b640-437e-925d-366fdff1e0a8.png)
+              ![image](https://user-images.githubusercontent.com/119097836/208232581-d23ef48a-1372-455a-bf8d-3e233a1f86e3.png)
             - หลังเปลี่ยน ip clone2
-              ![clone2](https://user-images.githubusercontent.com/117428887/207250128-efab9275-9ffb-4829-81d6-709189a7d3db.png)
+              ![image](https://user-images.githubusercontent.com/119097836/208232616-37057b73-ae44-4fae-bc6d-e59b2a058c35.png)
  
 2) create vm from other os
    - Create VM จากนั้นทำการตั้งค่าที่กำหนดโดยระบบปฏิบัติการที่เลือกใช้คือ Linux Mint
       - Summary ของ Linux Mint
-        ![image](https://user-images.githubusercontent.com/117428887/207254087-5c33fc7e-9147-4fe2-ba37-0b3760e770ab.png)
+        ![image](https://user-images.githubusercontent.com/119097836/208232705-a59b5485-2944-4519-a331-415aca64aaae.png)
       - หน้า console screen
-        ![image](https://user-images.githubusercontent.com/117428887/207250406-0046c82f-bab3-4619-b8b3-40d1d6c397ec.png)  
+        ![image](https://user-images.githubusercontent.com/119097836/208232727-2e0b8a8c-56ba-4d6c-be89-31b349ffe4be.png)  
 
 3) create container template 
    - Click create container template เพื่อสร้าง CT
       - Summary 
-        ![image](https://user-images.githubusercontent.com/117428887/207257544-a0089b6a-1db7-40a6-b2f2-47f3c7c7357e.png)
+        ![image](https://user-images.githubusercontent.com/119097836/208232763-9f4f58ff-a806-4b3d-8260-9e34a58989bb.png)
       - console screen 
-        ![image](https://user-images.githubusercontent.com/117428887/207257761-fc2e8d1c-a456-4780-8b78-65498a3769db.png)
+        ![image](https://user-images.githubusercontent.com/119097836/208232982-a995092b-eb07-4c6d-b6a3-85ffe7938e4e.png)
