@@ -10,7 +10,7 @@
        - apt install qemu-guest-agent
        - systemctl enable qemu-guest-agent
        - และทำการตั้งค่าที่ option ให้เปิดใช้งานตัว Qemu guest agent เป็น Enable 
-       ![master](https://user-images.githubusercontent.com/117428887/207249679-cc1c035d-567c-47c2-bb70-4af156fbd084.png)
+       ![master]([https://user-images.githubusercontent.com/117428887/207249679-cc1c035d-567c-47c2-bb70-4af156fbd084.png](https://cdn.discordapp.com/attachments/822487501989085184/1053579531425951764/image.png))
        - reboot เพื่อรีระบบ
    1.1) clone from template 2 vm
    - Click ที่ vm(master) > Convert to template
